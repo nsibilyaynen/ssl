@@ -1,6 +1,6 @@
 {application, ssl,
    [{description, "Erlang/OTP SSL application"},
-    {vsn, "6.0"},
+    {vsn, "6.9"},
     {modules, [
 	       %% TLS/SSL 
 	       tls_connection,
